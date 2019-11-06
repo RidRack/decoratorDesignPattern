@@ -1,0 +1,10 @@
+{
+    "name": "arickard/decorator",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "decorator\\": "src/"
+        }
+    }
+}
